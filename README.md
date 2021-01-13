@@ -17,8 +17,6 @@ python3 parser.py [JSON_PATH] [OUT_IMG_PATH]
 **you can use the two commands specify to draw 2D/3D images**
 ```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -2d
-```
-```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -3d
 ```
 **or use "-s" to show the control UI**
