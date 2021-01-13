@@ -2,6 +2,8 @@
 
  <img src="./demo/2d.jpg" width = "300" height = "200" alt="asdasd" align=left />
  <img src="./demo/3d.jpg" width = "300" height = "200" alt="asdsasd" align=right />
+ 
+ 
 This dataset contains handwritten trajectories in English and Chinese, called "en_dataset" and "ch_dataset".
 
 "en_dataset" contains the handwritten of 10 girl and 5 boy, each person has 50 2D/3D positive samples and 50 negative samples. 
