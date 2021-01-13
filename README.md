@@ -1,6 +1,6 @@
 # NCUHandwrite Dataset
 <center class="half">
-<img src="./demo/demo.png" width = "300" height = "400" alt="demo" /></center>
+<img src="./demo/demo.png" width = "800" height = "300" alt="demo" /></center>
  
  
 This dataset contains handwritten trajectories in English and Chinese, called "en_dataset" and "ch_dataset".
