@@ -1,6 +1,6 @@
 # NCUHandwrite Dataset
 
-![This is a alt text.](/demo/2d.jpg "This is a sample
+![This is a alt text.](/demo/2d.jpg "This is a sample)
 
 This dataset contains handwritten trajectories in English and Chinese, called "en_dataset" and "ch_dataset".
 
