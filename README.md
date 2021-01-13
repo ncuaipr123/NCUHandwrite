@@ -32,4 +32,4 @@ python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -s
 python3 parser.py ch_dataset/ymz/3d/pstv/0.json out.jpg -s
 ```
 
-__For more details, please refer to example.py__
+_For more details, please refer to "example.py"_
