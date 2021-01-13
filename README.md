@@ -8,24 +8,24 @@ This dataset contains handwritten trajectories in English and Chinese, called "e
 Download link: [Google Drive](https://drive.google.com/file/d/1360LvxUOiuz4XhNJdNlCcboDtrj-oITi/view?usp=sharing)
 
 ## Drawing
-Please install opencv-python, matplotlib, numpy.
-Drawing img parser format:
+**Please install opencv-python, matplotlib, numpy.
+Drawing img parser format:**
 ```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH]
 ```
-You can use the two commands specify to draw 2D/3D images
+**you can use the two commands specify to draw 2D/3D images**
 ```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -2d
 ```
 ```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -3d
 ```
-or use "-s" to show the control UI
+**or use "-s" to show the control UI**
 ```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -s
 ```
 
-an Example:
+**an Example:**
 ```
 python3 parser.py ch_dataset/ymz/3d/pstv/0.json out.jpg -s
 ```
