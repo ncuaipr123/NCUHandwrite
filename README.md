@@ -29,7 +29,7 @@ python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -s
 
 **an Example:**
 ```
-python3 parser.py ch_dataset/ymz/3d/pstv/0.json out.jpg -s
+python3 parser.py example_dataset/ymz/3d/pstv/0.json out.jpg -s
 ```
 
 _For more details, please refer to "example.py"_
