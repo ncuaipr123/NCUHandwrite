@@ -13,6 +13,21 @@ Drawing img parser format:
 ```
 python3 parser.py [JSON_PATH] [OUT_IMG_PATH]
 ```
+You can use the two commands specify to draw 2D/3D images
+```
+python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -2d
+```
+```
+python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -3d
+```
+or use "-s" to show the control UI
+```
+python3 parser.py [JSON_PATH] [OUT_IMG_PATH] -s
+```
 
+an Example:
+```
+python3 parser.py ch_dataset/ymz/3d/pstv/0.json out.jpg -s
+```
 
-
+For more details, please refer to example.py
