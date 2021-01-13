@@ -1,6 +1,6 @@
 # NCUHandwrite Dataset
 
- <img src="./demo/2d.jpg" width = "300" height = "200" alt="asdasd" align=left />
+ <img src="./demo/2d.jpg" width = "300" height = "200" alt="asdasd" align=center />
  <img src="./demo/3d.jpg" width = "300" height = "200" alt="asdsasd" align=right />
  
  
