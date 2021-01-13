@@ -7,7 +7,7 @@ This dataset contains handwritten trajectories in English and Chinese, called "e
 
 Download link: [Google Drive](https://drive.google.com/file/d/1360LvxUOiuz4XhNJdNlCcboDtrj-oITi/view?usp=sharing)
 
-##Drawing
+## Drawing
 Please install opencv-python, matplotlib, numpy.
 Drawing img parser format:
 > python3 parser.py [JSON_PATH] [OUT_IMG_PATH]
