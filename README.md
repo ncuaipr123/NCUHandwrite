@@ -1,5 +1,7 @@
 # NCUHandwrite Dataset
 
+![This is a alt text.](/image/2d.png "This is a sample
+
 This dataset contains handwritten trajectories in English and Chinese, called "en_dataset" and "ch_dataset".
 
 "en_dataset" contains the handwritten of 10 girl and 5 boy, each person has 50 2D/3D positive samples and 50 negative samples. 
