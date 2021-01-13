@@ -10,8 +10,9 @@ Download link: [Google Drive](https://drive.google.com/file/d/1360LvxUOiuz4XhNJd
 ## Drawing
 Please install opencv-python, matplotlib, numpy.
 Drawing img parser format:
-> python3 parser.py [JSON_PATH] [OUT_IMG_PATH]
-
+```
+python3 parser.py [JSON_PATH] [OUT_IMG_PATH]
+```
 
 
 
