@@ -1,4 +1,4 @@
-# NCUHandwrite Dataset
+# NCUAirwriting Dataset
 <center class="half">
 <img src="./demo/demo.png" width = "800" height = "300" alt="demo" /></center>
  
